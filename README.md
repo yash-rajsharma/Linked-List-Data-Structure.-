@@ -72,6 +72,6 @@ Unlike arrays, linked lists do not store elements in contiguous memory locations
 
 ## Conclusion
 
-The Linked List is a versatile and fundamental data structure that is widely used in various algorithms and system designs. Its dynamic nature and ease of insertion/deletion make it suitable for situations where the size of the data is unpredictable, and random access is not required.
+The Linked List is a versatile and fundamental data structure that is widely used in various algorithms and system designs. Its dynamic nature and ease of insertion or deletion make it suitable for situations where the size of the data is unpredictable, and random access is not required.
 
 ---
